@@ -1,9 +1,9 @@
 // ***PRACTICE SET****
 // A good way to start learning about npm's and their functionalities is using the 'inquirer' npm
-// The inquirer npm let's you prompt questions to the user to start doing some JavaScript manupulation with the responses
+// The inquirer npm let's you prompt questions to the user to start doing some manupulation with the responses
 
 //*************************************
-//The purpose of this practice set is to promot the users some task (to-do list) and display them at the end using inquirer npm
+//The purpose of this practice set is to prompt the users some task (to-do list) and display them at the end using inquirer npm
 //*************************************
 
 //*** 1. Require the 'inquirer' npm
