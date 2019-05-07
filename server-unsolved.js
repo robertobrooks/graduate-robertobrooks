@@ -14,7 +14,7 @@ var myArray = [];
 
 //We'll display a Welcome message
 console.log('***********************************');
-console.log('*** Welcome to you TO-DO list *****');
+console.log('****** Welcome to TO-DO list ******');
 console.log('***********************************');
 
 //*** 2. Create an array called 'login' to store username and password (remember to hide the password characters) using the right input
