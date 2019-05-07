@@ -1,0 +1,23 @@
+{
+  "name": "graduate-robertobrooks",
+  "version": "1.0.0",
+  "main": "inquirer-example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertobrooks/graduate-robertobrooks.git"
+  },
+  "author": "Roberto Brooks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertobrooks/graduate-robertobrooks/issues"
+  },
+  "homepage": "https://github.com/robertobrooks/graduate-robertobrooks#readme",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
