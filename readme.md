@@ -4,6 +4,4 @@
 
 2) The user will be asked to do certain tasks
 
-3) The answers will be shown but can be deleted for the student to practice.
-
-4) There's a solved file 'server.js' and and unsolved file 'server-unsolved.js'
+3) There's a solved file 'server.js' and and unsolved file 'server-unsolved.js'
