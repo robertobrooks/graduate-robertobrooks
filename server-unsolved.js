@@ -18,6 +18,7 @@ console.log('****** Welcome to TO-DO list ******');
 console.log('***********************************');
 
 //*** 2. Create an array called 'login' to store username and password (remember to hide the password characters) using the right input
+//*** 2.5 Add a regular expresion to validate only letter and numers (OPTIONAL)
 var login = [
 //***ANSWER HERE
 ]
